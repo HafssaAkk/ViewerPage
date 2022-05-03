@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PageViewer</string>
+
+        <string name="pink">pink</string>
+        <string name="gray">gray</string>
+        <string name="white">white</string>
+    </resources>
